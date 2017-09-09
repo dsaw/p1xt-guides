@@ -1,7 +1,7 @@
 # Computer Science and Web Development - comprehensive
 
 If you have any questions, be sure to check the [FAQ](./faq.md). In fact, before you even start anything, go read the FAQ. 
-It has a pleathora of hints, tips and answers to help you ensure you get the most out of this guide.
+It has a plethora of hints, tips and answers to help you ensure you get the most out of this guide.
 
 ## Tier 1 - getting started
 - [ ]  Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)    
@@ -45,7 +45,7 @@ It has a pleathora of hints, tips and answers to help you ensure you get the mos
 - [ ]  Project: Clone the front page of [this](https://urbanarmorgear.com/) website modifying it to highlight a different product or industry. Make special note of the secondary navigation bar at the top. Implementing that is the highlight of this project.    
 - [ ]  Course: [UX Design for Mobile Developers](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)  
 - [ ]  Course: [Android Development for Beginners](https://www.udacity.com/course/android-development-for-beginners--ud837)    
-- [ ]  Project: Build the Pomodoro project from the FCC frontend curriculum - as an android app
+- [ ]  Project: Build the Pomodoro project from the FCC frontend curriculum - as an Android app
 
 
 
@@ -86,7 +86,7 @@ It has a pleathora of hints, tips and answers to help you ensure you get the mos
 - [ ]  Course: [Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x#!)    
 - [ ]  Project: Complete all challenges from the [Code Jam World Finals 2015](https://code.google.com/codejam/contest/5224486/dashboard)
 - [ ]  Course: [Machine Learning](https://www.coursera.org/learn/machine-learning)  
-- [ ]  Project: Design, implement, test, and deploy a game that is playable on the web, using the technologies of your choice. The only criteria are that it be playable online, and that it inculde a substantial AI component.
+- [ ]  Project: Design, implement, test, and deploy a game that is playable on the web, using the technologies of your choice. The only criteria are that it be playable online, and that it include a substantial AI component.
 - [ ]  Course: [Operating Systems and System Programming](http://theopenacademy.com/content/operating-systems-and-system-programming)  
 - [ ]  Project: Create a node module that will convert markdown to properly formatted html
 - [ ]  Course: [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)    
